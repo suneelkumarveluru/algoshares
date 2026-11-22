@@ -1,0 +1,4 @@
+symbol,entry,exit,quantity,commission
+DEMO_A,10.00,11.00,10,1.00
+DEMO_B,20.00,18.00,5,1.00
+DEMO_C,8.00,9.50,8,0.50
